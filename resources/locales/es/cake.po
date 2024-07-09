@@ -369,9 +369,7 @@ msgstr "El valor proporcionado debe ser un hora"
 
 #: vendor/cakephp/cakephp/src/Validation/Validator.php:1920
 msgid "The provided value must be a localized time, date or date and time"
-msgstr ""
-"El valor proporcionado debe ser una hora localizada (local), fecha o fecha y "
-"hora"
+msgstr "El valor proporcionado debe ser una hora, fecha o fecha y hora localizada"
 
 #: vendor/cakephp/cakephp/src/Validation/Validator.php:1947
 msgid "The provided value must be a boolean"
